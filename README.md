@@ -1,43 +1,35 @@
-# songchen.github.io
-Song Chen's homepage
+### Hi there, I'm Song!👋
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/LICENSE)
-
-This is the latest version of my homepage's source code. Feel free to use and share.
-<br />
-For more details, please refer to this repository: <https://github.com/yaoyao-liu/minimal-light>.
-
-### Using Locally with Jekyll
-
-You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.
-
-Install and run:
-
-```bash
-bundle install
-bundle exec jekyll server
-```
-View the live page using `localhost`:
-<http://localhost:4000>. You can get the html files in the `_site` folder.
-
-### Google Scholar Crawler
-
-The instructions for the Google Scholar crawler can be found in [this repository](https://github.com/RayeRen/acad-homepage.github.io).
-<br>
-Before using that, you need to change the Google Scholar ID in the following file:
-https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/7d16d828a229580815428782fb74d937710eb50e/google_scholar_crawler/main.py#L7
+[![](https://img.shields.io/badge/Homepage-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://song-chen1.github.io/)
+[![](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Song-Chen1)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/song-chen-3449b9278/)
+[![](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Song-Chen-60)
 
 
-### Acknowledgements
+I am currently a Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) & [Université Paris-Saclay](https://www.universite-paris-saclay.fr/). I have started my Ph.D. work involved in the Innovative Training Networks (ITN) Doctoral Networks - [BEMAGIC](https://bemagic-etn.eu/) which is funded from the European Union’s Horizon 2020 research and innovation programme under the [Marie Sklodowska-Curie grant](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks). My resaerch lies at using heterostructured multiferroic materials, electric surface charging and magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation. If you have any questions on my projects, please feel free to [send me an email](mailto:kammichan90@gmail.com?subject=[GitHub]).
 
-This project uses the source code from the following repositories:
 
-* [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
-* [orderedlist/minimal](https://github.com/orderedlist/minimal)
+---
 
-* [al-folio](https://github.com/alshedivat/al-folio)
+<img align="left" alt="Hanchao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=song-chen1&show_icons=true&hide_border=true" />
 
-* [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Song-Chen1&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-* [yaoyao-liu homepage](https://github.com/yaoyao-liu/yaoyao-liu.github.io)
+
+---
+<!--
+**Song-Chen16/Song-Chen16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently a Ph.D. student working 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
